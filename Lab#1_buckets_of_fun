@@ -1,4 +1,4 @@
-# Big IAM Challenge Lab Writeup
+# Big IAM Challenge Lab 1 Writeup
 
 ## Overview  
 This lab focused on analyzing an IAM policy, understanding its permissions, and using the AWS CLI to find and retrieve a flag stored in an S3 bucket.
